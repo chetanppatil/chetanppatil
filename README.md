@@ -49,6 +49,12 @@ You can see what I am currently up to on [chetan07j.me][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan07j&show_icons=true&theme=flag-india" alt="chetan07j's GitHub Stats" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetan07j&show_owner=true&repo=node-pg-sequelize-boilerplate)](https://github.com/anuraghazra/github-readme-stats)
+
+## Stargazers
+
+[![Stargazers repo roster for @Chetan07j/Chetan07j](https://reporoster.com/stars/Chetan07j/Chetan07j)](https://github.com/Chetan07j/Chetan07j/stargazers)
+
 [1]: https://github.com/Chetan07j
 [2]: https://www.linkedin.com/in/chetanppatil
 [3]: https://chetan07j.medium.com
