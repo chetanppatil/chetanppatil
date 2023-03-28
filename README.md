@@ -14,7 +14,7 @@
 
 I am **Full-Stack | Software Engineer | Cloud Enthusiast** from India :india:.
 
-I am interested in develop (open source) software solutions using JavaScript, TypeScript, ReactJS, and NodeJS.
+I am interested in develop (open source) software solutions using JavaScript, TypeScript, NodeJS and Golang.
 
 You can see what I am currently up to on [chetan07j.me][1].
 
