@@ -50,7 +50,7 @@ You can see what I am currently up to on [chetan07j.me][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan07j&show_icons=true&theme=flag-india" alt="chetan07j's GitHub Stats" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetan07j&show_owner=true&repo=node-pg-sequelize-boilerplate)](https://github.com/Chetan07j/node-pg-sequelize-boilerplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetan07j&show_owner=false&repo=node-pg-sequelize-boilerplate)](https://github.com/Chetan07j/node-pg-sequelize-boilerplate)
 
 [1]: https://github.com/Chetan07j
 [2]: https://www.linkedin.com/in/chetanppatil
