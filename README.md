@@ -52,6 +52,8 @@ You can see what I am currently up to on [chetan07j.me][1].
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetan07j&show_owner=false&repo=node-pg-sequelize-boilerplate)](https://github.com/Chetan07j/node-pg-sequelize-boilerplate)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetan07j&show_owner=false&repo=node-pg-sequelize-boilerplate)](https://github.com/Chetan07j/flyway-migrator)
+
 [1]: https://github.com/Chetan07j
 [2]: https://www.linkedin.com/in/chetanppatil
 [3]: https://chetan07j.medium.com
