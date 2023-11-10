@@ -33,6 +33,11 @@ You can see what I am currently up to on [chetan07j.me][1].
   <li> ⚡ I am always ready and eager to learn new things, to add to my skills set. Challanges in work boosts new Energy in my body.</li> 
 </ul>
 
+## :technologist: Blogs
+
+- [Node.Js Exploring the Directory Structure](https://chetan07.medium.com/part-1-node-js-express-sequelize-boilerplate-97c6008a42a2)
+- [Automating Database Migrations with Flyway and GitHub Actions](https://dev.to/chetan07/automating-database-migrations-with-flyway-and-github-actions-550p)
+
 ## :star: Popular & Useful Gists
 
 - [Robo3T-Installation-Menu.sh](https://gist.github.com/Chetan07j/ef98f17a699c1ff2ef7c34903c3c0389)
@@ -56,5 +61,5 @@ You can see what I am currently up to on [chetan07j.me][1].
 
 [1]: https://github.com/Chetan07j
 [2]: https://www.linkedin.com/in/chetanppatil
-[3]: https://chetan07j.medium.com
+[3]: https://chetan07.medium.com
 [4]: https://www.npmjs.com/~chetan07j
