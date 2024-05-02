@@ -63,4 +63,4 @@ You can see what I am currently up to on [chetanppatil.me][1].
 [1]: https://github.com/chetanppatil
 [2]: https://www.linkedin.com/in/chetanppatil
 [3]: https://chetan07.medium.com
-[4]: https://www.npmjs.com/~chetanppatil
+[4]: https://www.npmjs.com/~chetan07j
