@@ -17,7 +17,7 @@ I am **Full-Stack | Software Engineer | Cloud Enthusiast** from India :india:.
 
 My skill set encompasses Node.js, Java, Spring Boot, TypeScript, Golang, Terraform, PostgreSQL, and DevOps, reflecting a diverse range of technical expertise in my professional journey.
 
-You can see what I am currently up to on [chetanppatil.me][1].
+I'm passionate about learning and sharing. Follow my GitHub organization [DevInsightLab](https://github.com/DevInsightLab) for valuable insights.
 
 ## 📬 Get in touch
 
