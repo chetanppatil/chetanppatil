@@ -17,7 +17,7 @@ I am **Full-Stack | Software Engineer | Cloud Enthusiast** from India :india:.
 
 My skill set encompasses Node.js, Java, Spring Boot, TypeScript, Golang, Terraform, PostgreSQL, and DevOps, reflecting a diverse range of technical expertise in my professional journey.
 
-I'm passionate about learning and sharing. Follow my GitHub organization [DevInsightLab](https://github.com/DevInsightLab) for valuable insights.
+I'm passionate about learning and sharing. Follow my GitHub organization [TheCodersStudio](https://github.com/TheCodersStudio) for valuable insights.
 
 ## 📬 Get in touch
 
